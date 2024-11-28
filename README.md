@@ -43,7 +43,7 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 
 # Coding
 
-This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. See list and links at <(https://xcelab.net/rm/)>.
+This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. See list and links at (https://xcelab.net/rm/)
 
 For those who want to use the original R code examples in the print book, you need to install the `rethinking` R package. The code is all on github <https://github.com/rmcelreath/rethinking/> and there are additional details about the package there, including information about using the more-up-to-date `cmdstanr` instead of `rstan` as the underlying MCMC engine.
 
