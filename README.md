@@ -1,4 +1,4 @@
-Statistical Rethinking (2024 Edition)
+Statistical Rethinking (2025 Edition)
 ===============
 
 Instructor: Richard McElreath
