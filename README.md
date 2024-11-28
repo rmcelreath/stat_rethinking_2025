@@ -5,7 +5,7 @@ Instructor: Richard McElreath
 
 Lectures: Uploaded and pre-recorded, two per week
 
-Discussion: Online (Zoom), Fridays 3pm-4pm Central European (Berlin) Time
+Discussion: Online (Zoom), Fridays 11am-12pm Central European (Berlin) Time
 
 # Purpose
 
@@ -13,11 +13,11 @@ This course teaches data analysis, but it focuses on scientific models. The unfo
 
 # Format
 
-Online, flipped instruction. I will pre-record the lectures each week. We'll meet online once a week for an hour to discuss the material. The discussion time (3-4pm Berlin Time) should allow people in the Americas to join in their morning.
+Online, flipped instruction. I have pre-recorded the lectures for each week. We'll meet online once a week for an hour to discuss the material.
 
 We'll use the 2nd edition of my book, <[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)>, and possibly some draft chapters for the 3rd edition. I'll provide a PDF of the book to enrolled students.
 
-Registration: Registration hit the cap of 200 already and the wait list is also full. So registration is closed for this year. If people drop or stop attending discussions, I will invite from the wait list. - <[Wait List](https://forms.gle/3HwkC9zpmaPdTmU79)>
+Registration: Only Leipzig locals this year. I want a smaller group of students this time, so I can track individual progress better.
 
 # Calendar & Topical Outline
 
@@ -29,8 +29,8 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 
 | Week ## | Meeting date | Reading | Lectures |
 | ------- | -------------- | ------------- | ---------------------- |
-| Week 01 | 05 January  | Chapters 1, 2 and 3 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> <br> [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)>
-| Week 02 | 12 January | Chapter 4 | [3] <[Geocentric Models](https://www.youtube.com/watch?v=tNOu-SEacNU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=3)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-03)> <br> [4] <[Categories and Curves](https://www.youtube.com/watch?v=F0N4b7K_iYQ&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=4)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-04)>
+| Week 01 | 10 January  | Chapters 1, 2 and 3 | [1] <[Science Before Statistics](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=1)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-01)> <br> [2] <[Garden of Forking Data](https://www.youtube.com/watch?v=R1vcdhPBlXA&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=2)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-02)>
+| Week 02 | 17 January | Chapter 4 | [3] <[Geocentric Models](https://www.youtube.com/watch?v=tNOu-SEacNU&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=3)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-03)> <br> [4] <[Categories and Curves](https://www.youtube.com/watch?v=F0N4b7K_iYQ&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=4)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-04)>
 | Week 03 | 19 January | Chapters 5 and 6 |  [5] <[Elemental Confounds](https://www.youtube.com/watch?v=mBEA7PKDmiY&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=5)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-05)> <br> [6] <[Good and Bad Controls](https://www.youtube.com/watch?v=uanZZLlzKHw&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=6)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-06)>
 | Week 04 | 26 January | Chapters 7,8,9 | [7] <[Overfitting](https://www.youtube.com/watch?v=1VgYIsANQck&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=7)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-07)> <br> [8] <[MCMC](https://www.youtube.com/watch?v=rZk2FqX2XnY&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=8)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-08)>
 | Week 05 | 02 February | Chapters 10 and 11 | [9] <[Modeling Events](https://www.youtube.com/watch?v=Zi6N3GLUJmw&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=9)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-09)> <br> [10] <[Counts and Confounds](https://www.youtube.com/watch?v=jokxu18egu0&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&index=10)> <[Slides](https://speakerdeck.com/rmcelreath/statistical-rethinking-2023-lecture-10)>
@@ -43,27 +43,9 @@ Note about slides: In some browsers, the slides don't show correctly. If points 
 
 # Coding
 
-This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. Each option is listed below.
-
-## Original R Flavor
+This course involves a lot of scripting. Students can engage with the material using either the original R code examples or one of several conversions to other computing environments. The conversions are not always exact, but they are rather complete. See list and links at <(https://xcelab.net/rm/)>.
 
 For those who want to use the original R code examples in the print book, you need to install the `rethinking` R package. The code is all on github <https://github.com/rmcelreath/rethinking/> and there are additional details about the package there, including information about using the more-up-to-date `cmdstanr` instead of `rstan` as the underlying MCMC engine.
-
-## R + Tidyverse + ggplot2 + brms
-
-The <[Tidyverse/brms](https://bookdown.org/content/4857/)> conversion is very high quality and complete through Chapter 14.
-
-## Python and PyMC3
-
-The <[Python/PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)> conversion is quite complete.
-
-## Julia and Turing
-
-The <[Julia/Turing](https://github.com/StatisticalRethinkingJulia)> conversion is not as complete, but is growing fast and presents the Rethinking examples in multiple Julia engines, including the great <[TuringLang](https://github.com/StatisticalRethinkingJulia/TuringModels.jl)>.
-
-## Other
-
-The are several other conversions. See the full list at <https://xcelab.net/rm/statistical-rethinking/>.
 
 # Homework and solutions
 
